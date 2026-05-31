@@ -46,6 +46,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/OpenClaw-EE0000?style=for-the-badge&logoColor=white" alt="OpenClaw"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
   <img src="https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Midjourney"/>
