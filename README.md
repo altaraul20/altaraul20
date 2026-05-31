@@ -47,9 +47,16 @@
 <p>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
   <img src="https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Midjourney"/>
-  <img src="https://img.shields.io/badge/HeyGen-7C3AED?style=for-the-badge&logoColor=white" alt="HeyGen"/>
+  <img src="https://img.shields.io/badge/Sora-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Sora"/>
+  <img src="https://img.shields.io/badge/Kling%20AI-FF4D4F?style=for-the-badge&logoColor=white" alt="Kling AI"/>
+  <img src="https://img.shields.io/badge/Veo-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Veo"/>
+  <img src="https://img.shields.io/badge/Higgsfield-7C3AED?style=for-the-badge&logoColor=white" alt="Higgsfield"/>
+  <img src="https://img.shields.io/badge/HeyGen-00B8D9?style=for-the-badge&logoColor=white" alt="HeyGen"/>
   <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white" alt="ElevenLabs"/>
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut"/>
+  <img src="https://img.shields.io/badge/Nano%20Banana-FFD43B?style=for-the-badge&logoColor=black" alt="Nano Banana"/>
 </p>
 
 ---
