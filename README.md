@@ -1,9 +1,18 @@
-<h1 align="center">Hi, I'm Raul 👋</h1>
+<!-- Header banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:7C3AED&height=200&section=header&text=Raul%20Altamirano&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=AI%20Content%20%26%20Automation%20Engineer%20%C2%B7%20Python%20%C2%B7%20Builds%20from%20zero&descSize=18&descAlignY=58" alt="header" />
+</p>
 
+<!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/altaraul20">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=480&lines=AI+Content+%26+Automation+Engineer+%F0%9F%A4%96;Python+%C2%B7+APIs+%C2%B7+LLM+agents;I+turn+chaotic+workflows+into+systems;Operator+who+builds+from+zero" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=I+build+production+AI+pipelines+%F0%9F%A4%96;Python+%C2%B7+APIs+%C2%B7+LLM+agents+%C2%B7+automation;I+turn+chaotic+workflows+into+systems;Operator+who+builds+from+zero+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
+</p>
+
+<!-- Profile views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=altaraul20&label=Profile%20views&color=7C3AED&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -55,6 +64,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=altaraul20&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=altaraul20&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="trophies" />
+</p>
+
+<!-- Activity graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=altaraul20&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+</p>
+
 ---
 
-<p align="center"><i>More projects on the way ✨</i></p>
+<!-- Footer banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2E9EF7&height=120&section=footer&text=More%20projects%20on%20the%20way%20%E2%9C%A8&fontColor=ffffff&fontSize=18&fontAlignY=70" alt="footer" />
+</p>
