@@ -86,5 +86,19 @@
 
 ---
 
+### 🐍 Watch the snake eat my contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/altaraul20/altaraul20/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/altaraul20/altaraul20/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/altaraul20/altaraul20/output/github-snake.svg" />
+  </picture>
+</p>
+
+<sub align="center">↑ Auto-generated daily by a GitHub Action — <a href="https://github.com/altaraul20/altaraul20/blob/main/.github/workflows/snake.yml">see the workflow</a></sub>
+
+---
+
 <!-- Footer (native text — always renders) -->
 <h3 align="center">More projects on the way ✨</h3>
