@@ -1,6 +1,7 @@
-<!-- Header banner -->
+<!-- Header (native text — always renders, never a broken image) -->
+<h1 align="center">Raul Altamirano</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:7C3AED&height=200&section=header&text=Raul%20Altamirano&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=AI%20Content%20%26%20Automation%20Engineer%20%C2%B7%20Python%20%C2%B7%20Builds%20from%20zero&descSize=18&descAlignY=58" alt="header" />
+  <b>AI Content &amp; Automation Engineer</b> · Python · LLM agents · Builds from zero 🚀
 </p>
 
 <!-- Typing animation -->
@@ -85,7 +86,5 @@
 
 ---
 
-<!-- Footer banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2E9EF7&height=120&section=footer&text=More%20projects%20on%20the%20way%20%E2%9C%A8&fontColor=ffffff&fontSize=18&fontAlignY=70" alt="footer" />
-</p>
+<!-- Footer (native text — always renders) -->
+<h3 align="center">More projects on the way ✨</h3>
